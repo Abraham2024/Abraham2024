@@ -1,6 +1,6 @@
 ### Hi there 👋 I AM ABRAHAM AMANOKHAI 
 
-- 🔭 I’m currently working on building websits
+- 🔭 I’m currently working on building websites
 - 🌱 I’m currently learning C, python, JavaScript
 - 👯 I’m looking to collaborate on building projects
 <!-- 🤔 I’m looking for help with ...
